@@ -36,23 +36,22 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - Voting
 		 
 ## Deep Learning  
+- Introduction to tensorflow, 
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
 - Autoencoders and GANs
 					
 					
-## Intro To AI  
-- Definition
-- Failed approaches
-- Algorithms
-- Reinforcement Learning
-					
-					
+## Reinforcement  Learning  
+- Approaches and use cases
+- Deep Q Learning
+- openAI
+										
 ## Optimization techniques  
 - Hyperparameter Tuning
 - Cross-Validation
-- Grid Search cross-validation for automatic selection of best parameterss
+- Grid Search cross-validation for automatic selection of best parameters
 - Regularization
 - Seperate Validation dataset
 			
