@@ -11,31 +11,31 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - Polynomial Functions
 - Algo's used as both Regressors and Classifiers
 
-## Classification Algo's
-K-Nearest Neighbors (KNN)
-Logistic Regression
-Decision Trees
-Support Vector Machine (SVM)
-Boosting Algo's
+## Classification Algo's  
+- K-Nearest Neighbors (KNN)
+- Logistic Regression
+- Decision Trees
+- Support Vector Machine (SVM)
+- Boosting Algo's
 			
 					
-## Ensemble Methods
-Random Forest
-Bagging
-Voting
+## Ensemble Methods  
+- Random Forest
+- Bagging
+- Voting
 		 
-## Deep Learning
-Artificial Neural Networks (ANN)
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Autoencoders and GANs
+## Deep Learning  
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Autoencoders and GANs
 					
 					
-## Intro To AI
-Definition
-Failed approaches
-Algorithms
-Reinforcement Learning
+## Intro To AI  
+- Definition
+- Failed approaches
+- Algorithms
+- Reinforcement Learning
 					
 					
 ### Techniques to formulate and solve
