@@ -4,19 +4,23 @@
 Introduction to ML operation scientific and visualization libraries - pandas, numpy, matplotlib, seaborn
 
 ## Data Preprocessing and Exploratory Analysis
+- Train Test Split
+- Categorical features
+- Missing values
+- Scaling Data
     
-## Regression Algo's
+## Regression Algorithms
 - Linear Regression
 - Ridge & Lasso regression
 - Polynomial Functions
 - Algo's used as both Regressors and Classifiers
 
-## Classification Algo's  
+## Classification Algorithms  
 - K-Nearest Neighbors (KNN)
 - Logistic Regression
 - Decision Trees
 - Support Vector Machine (SVM)
-- Boosting Algo's
+- Boosting Algos
 			
 					
 ## Ensemble Methods  
@@ -38,19 +42,12 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - Reinforcement Learning
 					
 					
-### Techniques to formulate and solve
-			__	Train Test Split
-			__	Hyperparameter Fine Tunning
-			__ 	Cross-Validation
- 			__	Grid Search cross-validation for automatic selection of best params
-			__	Regularization
-			__	confusion matrix/classification report for classification tasks
-			__	Scaling Data
-			__	Seperate Validation dataset
-			__	Categorical features
-			__	Missing values
-			__	pipeline
-			__	cross-tab
-			__	Dimensionality reduction with PCA
+## Optimization techniques  
+- Hyperparameter Tuning
+- Cross-Validation
+- Grid Search cross-validation for automatic selection of best parameterss
+- Regularization
+- Seperate Validation dataset
+			
 			
 		
