@@ -1,5 +1,7 @@
 # plan-of-attack
 
+Machine Learning, Computer Vision, Natural Language Processing 
+
 ## Introduction To Python  
 Introduction to ML operation scientific and visualization libraries - pandas, numpy, matplotlib, seaborn
 
@@ -64,4 +66,4 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - [python basics](https://pythonprogramming.net/python-fundamental-tutorials/)
 - [stanford notes](http://cs229.stanford.edu/syllabus.html)
 
-		
+
