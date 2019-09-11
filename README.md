@@ -58,8 +58,10 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 ## Resources
 ### Data sources
 - [kaggle](https://www.kaggle.com/)
-- https://archive.ics.uci.edu/ml/index.php
-- https://www.quandl.com/
+- [UCI](https://archive.ics.uci.edu/ml/index.php)
+- [quandl](https://www.quandl.com/)
 ### Learning Material
+- [python basics](https://pythonprogramming.net/python-fundamental-tutorials/)
+- [stanford notes](http://cs229.stanford.edu/syllabus.html)
 
 		
