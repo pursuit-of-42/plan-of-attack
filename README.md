@@ -3,7 +3,7 @@
 Machine Learning, Computer Vision, Natural Language Processing 
 
 ## Introduction To Python  
-Introduction to ML operation scientific and visualization libraries - pandas, numpy, matplotlib, seaborn
+Introduction to ML operation scientific and visualization libraries - pandas, numpy, matplotlib, seaborn...
 
 ## Data Preprocessing and Exploratory Analysis
 - Train Test Split
