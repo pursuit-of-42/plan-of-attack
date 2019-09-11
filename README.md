@@ -1,41 +1,41 @@
 # plan-of-attack
 
-## Introduction To Python
-    --> Introduction to ML operation scientific libraries
+## Introduction To Python  
+Introduction to ML operation scientific and visualization libraries - pandas, numpy, matplotlib, seaborn
+
+## Data Preprocessing and Exploratory Analysis
     
-    
-## Dive Into ML Algorithm
-### Classification Algo's
-					__	KNN
-					__	Logistic Regression
-					__	Decision Trees
-					__	SVM
-					__	Boosting Algo's
+## Regression Algo's
+- Linear Regression
+- Ridge & Lasso regression
+- Polynomial Functions
+- Algo's used as both Regressors and Classifiers
+
+## Classification Algo's
+K-Nearest Neighbors (KNN)
+Logistic Regression
+Decision Trees
+Support Vector Machine (SVM)
+Boosting Algo's
 			
-### Regression Algo's
-					__	Linear Regression
-					__	Ridge & Lasso
-					__ 	Polynomial Functions
-					__	Algo's used as both Reggsor and Classifier
 					
-### Ensemble Methods
-					__ 	Random Forest
-					__	Bagging
-					__ 	Voting
-	
-	
-### DeepLearning
-		 		  __	Artificial Neural Network
-					__	Convolutional Neural Network
-					__  Methods of handling different NN's
-					__	Sequence to Sequence Models(Overview)
+## Ensemble Methods
+Random Forest
+Bagging
+Voting
+		 
+## Deep Learning
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Autoencoders and GANs
 					
 					
-### Intro To AI
-					__	Definition
-					__	Ways Method and failed approaches
-					__	Algorithms
-					__	Reinforcement Learning
+## Intro To AI
+Definition
+Failed approaches
+Algorithms
+Reinforcement Learning
 					
 					
 ### Techniques to formulate and solve
