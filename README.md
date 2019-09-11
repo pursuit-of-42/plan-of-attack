@@ -54,6 +54,12 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - Grid Search cross-validation for automatic selection of best parameters
 - Regularization
 - Seperate Validation dataset
-			
-			
+
+## Resources
+### Data sources
+- [kaggle](https://www.kaggle.com/)
+- https://archive.ics.uci.edu/ml/index.php
+- https://www.quandl.com/
+### Learning Material
+
 		
