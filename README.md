@@ -21,7 +21,14 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - Decision Trees
 - Support Vector Machine (SVM)
 - Boosting Algos
-			
+
+## Clustering Algorithms
+- K-means
+- Density based clustering
+
+## Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Linear Discriminant Analysis (LDA)
 					
 ## Ensemble Methods  
 - Random Forest
