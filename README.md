@@ -70,5 +70,6 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 ### Learning Material
 - [python basics](https://pythonprogramming.net/python-fundamental-tutorials/)
 - [stanford notes](http://cs229.stanford.edu/syllabus.html)
+- [Pyimagesearch](https://www.pyimagesearch.com/)
 
 
