@@ -62,6 +62,11 @@ Introduction to ML operation scientific and visualization libraries - pandas, nu
 - [kaggle](https://www.kaggle.com/)
 - [UCI](https://archive.ics.uci.edu/ml/index.php)
 - [quandl](https://www.quandl.com/)
+- [unicef](https://data.unicef.org/resources/resource-type/datasets/)
+- [data.world](https://data.world/)
+- [airbnb](http://insideairbnb.com/get-the-data.html)
+- [nasa](https://data.nasa.gov/browse)
+
 ### Learning Material
 - [python basics](https://pythonprogramming.net/python-fundamental-tutorials/)
 - [stanford notes](http://cs229.stanford.edu/syllabus.html)
